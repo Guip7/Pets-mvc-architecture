@@ -1,0 +1,47 @@
+[33mcommit f30b5c0ddbb91c1b4aa1f81e073489af9f409718[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: gbraga.io <guibraga720@gmail.com>
+Date:   Wed Mar 4 16:59:38 2026 -0300
+
+    implementing interfaces from repo
+
+[33mcommit 4cde6ca4a557b8124da0ea0d6fc228c4f0620905[m
+Author: gbraga.io <guibraga720@gmail.com>
+Date:   Wed Mar 4 14:51:57 2026 -0300
+
+    add test environment
+
+[33mcommit 25630e035debf908efe610044a09165fd1d058c1[m
+Author: gbraga.io <guibraga720@gmail.com>
+Date:   Tue Mar 3 17:37:52 2026 -0300
+
+    implementing test on repositories
+
+[33mcommit 05331a29bfd0a6c13c348e785f63f8143c5b3841[m
+Author: gbraga.io <guibraga720@gmail.com>
+Date:   Tue Mar 3 10:52:45 2026 -0300
+
+    config the database and model entities
+
+[33mcommit df02dda0af80ed093762148160fe7b144ee84f28[m
+Author: gbraga.io <guibraga720@gmail.com>
+Date:   Mon Mar 2 15:47:40 2026 -0300
+
+    add models and connection with database
+
+[33mcommit 47539b47e1cb6e679128d02f16b363e02301bc78[m
+Author: gbraga.io <guibraga720@gmail.com>
+Date:   Fri Feb 27 11:26:19 2026 -0300
+
+    config: start project and add db
+
+[33mcommit 19d814de512578655f30c983a8dee3d560b13e44[m
+Author: gbraga.io <guibraga720@gmail.com>
+Date:   Thu Feb 26 15:30:46 2026 -0300
+
+    add pylint
+
+[33mcommit cec4c40e720e111c92e9e31fb88230ebfefc0420[m
+Author: gbraga.io <guibraga720@gmail.com>
+Date:   Thu Feb 26 13:17:02 2026 -0300
+
+    Start Project
